@@ -1,1 +1,1 @@
-[Alt text](VCU1525_BackPlate_Active.png?raw=true "Title")
+![VCU1525_BackPlate_Active](VCU1525_BackPlate_Active.PNG?raw=true "Title")
