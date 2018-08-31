@@ -1,4 +1,4 @@
-# Xilinx VCU1525 Mechanical
+# Xilinx VCU1525
 Mechanical models and drawings of Xilinx VCU1525 board, heatsink and other hardware.
 
 All dimensions manually measured and entered, may contain erros and typos - so for reference only!
