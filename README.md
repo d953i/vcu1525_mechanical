@@ -6,7 +6,7 @@ All dimensions manually measured and entered, may contain erros and typos - so f
 I'm plan to machine/3d print and verify models at some point.
 
 ![VCU1525_ACTIVE_TOP](Assembly/VCU1525_ASSEMBLY_ACTIVE_TOP_FRONT.PNG?raw=true "TOP_FRONT")
-![VCU1525_ACTIVE_BOT](Assembly/VCU1525_ASSEMBLY_ACTIVE_BOT_BACK.PNG?raw=true "TOP_BACK")
+![VCU1525_ACTIVE_BOT](Assembly/VCU1525_ASSEMBLY_ACTIVE_TOP_BACK.PNG?raw=true "TOP_BACK")
 ![VCU1525_ACTIVE_BOT](Assembly/VCU1525_ASSEMBLY_ACTIVE_BOT.PNG?raw=true "BOT")
 
 # Donations
