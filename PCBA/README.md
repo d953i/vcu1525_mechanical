@@ -1,3 +1,5 @@
+Mechanically accurate 3D model of VCU1525 PCBA (PCB Assembly).
+
 ![VCU1525_PCBA_TOP](VCU1525_PCB_ASSEMBLY_TOP2.PNG?raw=true "PCBA TOP")
 ![VCU1525_PCBA_BOT](VCU1525_PCB_ASSEMBLY_BOT2.PNG?raw=true "PCBA BOT")
 
